@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leroy-sama
-- 👀 I’m interested in web development 
+- 👀 I’m taking the web developer course 
 - 🌱 I’m currently learning jvascript
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ This year I'm looking forward to completing the course and start on some projects
 - 📫 How to reach me mogireleroy145@gmail.com
 
 <!---
