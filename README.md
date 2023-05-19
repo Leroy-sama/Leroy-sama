@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leroy-sama
-- 👀 I’m taking the web developer course 
-- 🌱 I’m currently learning jvascript
-- 💞️ This year I'm looking forward to completing the course and start on some projects
+- 👀 I am a Frontend Developer
+- 🌱 I’m currently learning React
+- 💞️ This year I'm looking forward to becoming a react developer and starting on the backend.
 - 📫 How to reach me mogireleroy145@gmail.com
 
 <!---
