@@ -1,4 +1,4 @@
-Hello, I'm Leroy-sama
+Junior Developer
 
 <!---
 Leroy-sama/Leroy-sama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
